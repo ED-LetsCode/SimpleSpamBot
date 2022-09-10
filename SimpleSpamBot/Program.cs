@@ -9,7 +9,7 @@ namespace SimpleSpamBot
         {
             //Start the program and click on the textbox in the application where you want to send the spam message. 
             //After start you have 5 seconds until the spam is started.
-            StartSpam(1000, "Enter here your'e message");
+            StartSpam(1000, "Enter here your message");
         }
 
         private static void StartSpam(int count, string spamMessage)
